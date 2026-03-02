@@ -38,17 +38,13 @@ Link: [https://youtu.be/ml-SL-NUbhs](https://youtu.be/rB-pS018WPA)
 ---
 
 ### 🔎 게임 미리보기
-![SCR0](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/1.png)
-![SCR1](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/2.png)
-![SCR2](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/3.png)
-![SCR3](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/4.png)
-![SCR4](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/5.png)
-![SCR5](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/6.png)
-![SCR6](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/7.png)
-![SCR7](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/8.png)
-![SCR8](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/9.png)
-![SCR9](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/10.png)
-![SCR10](https://github.com/Ahwhi/Arena_Run_And_Hit/blob/main/ScreenShots/11.png)
+![SCR0](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/1.png)
+![SCR1](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/2.png)
+![SCR2](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/3.png)
+![SCR3](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/4.png)
+![SCR4](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/5.png)
+![SCR5](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/6.png)
+![SCR6](https://github.com/Ahwhi/Delta77/blob/main/ScreenShots/7.png)
 
 ---
 
